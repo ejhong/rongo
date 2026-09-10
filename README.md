@@ -1,3 +1,11 @@
+# Moved
+
+This repository was merged, with its history, into **[ejhong/birdmen](https://github.com/ejhong/birdmen)** on 10 September 2026
+(`pipeline/rongo`, `data/rongo`, `docs/rongo`, `inputs/rongo`, `research/rongo`). The page now lives at
+<https://ejhong.github.io/birdmen/rongo/>; this repository is archived and this page redirects there.
+
+---
+
 # rongo — a fair test of the Indus / rongorongo resemblance
 
 Do the Indus script and Easter Island's rongorongo share more sign shapes than two
